@@ -1,4 +1,5 @@
-#만명 gene별로 pathogenic missense variant 추출하기 
+#step1 gene별로 pathogenic missense variant 추출하기 
+#
 
 
 
